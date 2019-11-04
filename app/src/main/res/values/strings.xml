@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyUnitTesting</string>
+    <string name="lbl_panjang">Panjang</string>
+    <string name="lbl_lebar">Lebar</string>
+    <string name="lbl_tinggi">Tinggi</string>
+    <string name="lbl_hasil">Hasil</string>
+    <string name="lbl_hitung">Hitung</string>
+    <string name="lbl_hitung_volume">Hitung Volume Bangun</string>
+    <string name="lbl_hitung_keliling">Hitung Keliling</string>
+    <string name="lbl_hitung_luas">Hitung Luas Area</string>
+    <string name="default_value">0</string>
+</resources>
